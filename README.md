@@ -1,4 +1,6 @@
 # Terraform DigitalOcean Database Cluster Module
+Note: This is a practice project used for experimenting with infrastructure development.  While I consider this a demo project, it also works and can be used as an example for how to create your own database clusters in DigitalOcean.
+
 
 This Terraform module creates a DigitalOcean PostgreSQL database cluster with associated resources including:
 
@@ -10,13 +12,13 @@ This Terraform module creates a DigitalOcean PostgreSQL database cluster with as
 
 ## Features
 
-- ✅ PostgreSQL database cluster on DigitalOcean
-- ✅ Configurable cluster size and node count
-- ✅ Database and user creation
-- ✅ Connection pool configuration
-- ✅ Firewall rules for Kubernetes and IP-based access
-- ✅ Comprehensive outputs for integration
-- ✅ Configurable resource tagging
+- PostgreSQL database cluster on DigitalOcean
+- Configurable cluster size and node count
+- Database and user creation
+- Connection pool configuration
+- Firewall rules for Kubernetes and IP-based access
+- Comprehensive outputs for integration
+- Configurable resource tagging
 
 ## Requirements
 
@@ -139,7 +141,3 @@ Common DigitalOcean database cluster sizes:
 3. Make your changes
 4. Add tests if applicable
 5. Submit a pull request
-
-## License
-
-This module is released under the MIT License. See [LICENSE](LICENSE) for details.
