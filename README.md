@@ -1,8 +1,7 @@
 # Terraform DigitalOcean Database Cluster Module
-Note: This is a practice project used for experimenting with infrastructure development.  While I consider this a demo project, it also works and can be used as an example for how to create your own database clusters in DigitalOcean.
-
-
 This Terraform module creates a DigitalOcean PostgreSQL database cluster with associated resources including:
+
+Note: This is a practice project used for experimenting with infrastructure development.  While I consider this a demo project, it also works and can be used as an example for how to create your own database clusters in DigitalOcean.
 
 - Database cluster
 - Database
